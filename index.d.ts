@@ -1,2 +1,3 @@
-export const LinkedInModal: any;
-export default LinkedInModal;
+export * from './index';
+declare let LinkedInModal: any;
+export { LinkedInModal };

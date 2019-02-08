@@ -1,7 +1,7 @@
 {
   "name": "rn-linkedin-login",
-  "version": "1.0.3",
-  "main": "index.js",
+  "version": "1.0.4",
+  "main": "./index.js",
   "types": "./index.d.ts",
   "files": ["assets/x-white@2x.png", "assets/x-white@3x.png"],
   "description": "React Native login with LinkedIn",
